@@ -158,12 +158,11 @@ The library provides comprehensive error handling:
 
 MIT License - see LICENSE file for details
 
-## Author
 
-Your Name - Professional C++ Developer
 
 ## Acknowledgments
 
 - Inspired by GMP (GNU Multiple Precision Arithmetic Library)
 - Uses Karatsuba algorithm for multiplication optimization
+
 - Implements efficient algorithms for mathematical functions
